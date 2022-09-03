@@ -1,11 +1,8 @@
 // src/components/ProductTable.js
 
-/*import { useState } from 'react';*/
 import ProductRow from './ProductRow';
 
-
 function ProductTable (props) {
-  /*const [product, setProducts] = useState(jsonData);*/
 
   // props.products
   

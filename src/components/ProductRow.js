@@ -9,9 +9,9 @@ function ProductRow (props) {
 
   
   if ({props.product.inStock} === true) {
-    color:black
+    'background-color : black'
   } else {
-    color:red
+    'color : red'
   }
 
  }*/
